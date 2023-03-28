@@ -1,4 +1,6 @@
-Level 1 Task 1 -Thinking like a programmer: Pseudocode
+# Level 1 Task 1 -Thinking like a programmer: Pseudocode
+
+## Task 1
 
 Create a new text file called pseudo.txt.
 
@@ -30,7 +32,11 @@ algorithm should print out “Hello” and the first_name.
 ○ The user then enters their age and then stores it in a variable called
 age. Subsequently, the algorithm should work out the year the
 person was born. The program should then print out the phrase
-	@@ -34,8 +40,10 @@ you were born in 1998.”
+“Based on your age of [age given], it looks like you were born in
+[year calculated].” E.g. If the person says they are 22 and the year is
+2020, the output would be, “Based on your age of 22, it looks like
+you were born in 1998.”
+
 ## Optional Bonus
 
 ● Create a new text file called optional_task.txt.
@@ -40,4 +46,4 @@ that asks the user for a number and stores that number in a variable
 called n. The algorithm then works out if n is a prime number or not
 
 ● The algorithm then outputs either “Prime” or “Not prime” depending on
-the result
+the result.
