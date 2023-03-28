@@ -1,3 +1,5 @@
+Level 1 Task 1 -Thinking like a programmer: Pseudocode
+
 Create a new text file called pseudo.txt.
 
 ● Inside pseudo.txt, write pseudo code for each of the following scenarios:
