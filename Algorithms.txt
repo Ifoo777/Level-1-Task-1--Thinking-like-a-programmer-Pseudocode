@@ -1,0 +1,9 @@
+Request input from user 
+Stores input variable called first_name
+Output Name and first_name as a result
+
+request second input from user
+Stores input variable as age\
+if the person age is 27 and the year is 2021  
+then based on your age
+print out your age it looks like you were born in 1994
